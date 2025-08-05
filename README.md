@@ -1,4 +1,4 @@
-# 30SecondsPCBooster 🚀
+# 10SecondsRobloxBooster 🚀
 
 A simple yet powerful tool to boost your PC performance and optimize Roblox in just a few seconds.
 
@@ -10,12 +10,11 @@ A simple yet powerful tool to boost your PC performance and optimize Roblox in j
 - Launches Roblox in fullscreen
 
 ## Usage
-1. Run the script with Python 3.
-2. Follow on-screen instructions.
-3. Enjoy a cleaner, faster system!
+1. Follow on-screen instructions.
+2. Enjoy a cleaner, faster system!
 
 ## Download EXE
-➡️ Coming soon...
+➡️ Go into the realease and download the project.exe
 
 ## License
 MIT License
